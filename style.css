@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+}
+.orange-color{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin: 0 40px;
+}
+.half-width img{
+    width: 80%;
+}
+.btn{
+    text-decoration: none;
+    padding: 5px 40px;
+    font-size: 22px;
+    color: white;
+    border-radius: 6px;
+    background-image: linear-gradient(#F88567, #f59e88);
+}
